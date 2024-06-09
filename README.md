@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **In my ongoing pursuit of knowledge, I'm navigating the dynamic world of Information Technology, currently pursuing my BS-IT degree. The journey has been illuminated by my Cisco Netcad Certification in Networking, and I've had the privilege of contributing my skills during an enriching as Full-Stack web developer.**
 
-- 📫 How to reach me **mianhaider799@gmail.com**
+- 📫 How to reach me **malaikashehzadi799@gmail.com**
 
 - ⚡ Fun fact **I am Hard Worker.**
 
